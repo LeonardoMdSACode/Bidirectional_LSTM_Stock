@@ -23,8 +23,8 @@ The Bidirectional LSTM model has an input dimension of 1, hidden dimension of 32
 ![](imgs/loss.png) 
 
 The calculated RMSE values are quite good:
-Train Score: 0.01219
-Test Score: 0.01111
+- Train Score: 0.01219
+- Test Score: 0.01111
 
 The predicted values vs the test dataset look great!
 ![](imgs/prediction.png)
